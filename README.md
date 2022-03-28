@@ -9,7 +9,7 @@
 
 Here I'll put the source code of my Youtube videos
 this project contains scenes generated using the library [ManimCommunity](https://github.com/ManimCommunity/manim).
-the contents of this project are intended only to be used for TheSiGuy videos themselves.
+The contents of this project are intended only to be used for TheSiGuy videos themselves.
 
 Copyright © 2022 TheSiGuy
 
