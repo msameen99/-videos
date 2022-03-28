@@ -8,7 +8,10 @@
 - my facebook page :   [TheSiGuy](https://www.facebook.com/thesiguyEN)
 
 Here I'll put the source code of my Youtube videos
-these projects consist of scenes generated using the library [ManimCommunity](https://github.com/ManimCommunity/manim).
+this project contains scenes generated using the library [ManimCommunity](https://github.com/ManimCommunity/manim).
+the contents of this project are intended only to be used for TheSiGuy videos themselves.
+
+Copyright © 2022 TheSiGuy
 
 
 
