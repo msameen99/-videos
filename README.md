@@ -5,7 +5,7 @@
 - 📫 My discord ID : 895236925127032852
 - you can contact me on : [Reddit](https://www.reddit.com/user/The_SiGuy), [FaceBook](https://www.facebook.com/thesiguyEN)
 
-Here I'll put the source code of my Youtube videos
+Here I'll put the source code of my Youtube videos.
 This project contains scenes generated using the library [ManimCommunity](https://github.com/ManimCommunity/manim).
 The contents of this project are intended only to be used for [TheSiGuy](https://www.youtube.com/c/TheSiGuyEN) videos themselves.
 
